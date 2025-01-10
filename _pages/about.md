@@ -62,10 +62,6 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 - <span class="conference-badge">arxiv preprint</span> [Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245), Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   [**Source Code**](https://github.com/hp-l33/AiM)
 
 
-
-</div></div>
-
-
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship(Undergraduate)(Top 1%)
 - *2021.10* National Scholarship(Undergraduate)(Top 1%)
