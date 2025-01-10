@@ -34,7 +34,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/prograph_pipeline2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/papers/prograph_pipeline2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](https://arxiv.org/abs/2409.19667)
@@ -45,7 +45,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
 
 
-# ⌛️ Preprints
+<!-- # ⌛️ Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/papers/graphteam_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +54,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 **Xin Li***, Qizhi Chu*, Yubin Chen*, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang†
 
-[**Project**](https://github.com/BUPT-GAMMA/GraphTeam) 
+[**Project**](https://github.com/BUPT-GAMMA/GraphTeam)  -->
 
 
 # 🎖 Honors and Awards
