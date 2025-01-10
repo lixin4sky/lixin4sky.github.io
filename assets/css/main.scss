@@ -107,3 +107,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.text-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    background-color: #003087;
+    color: white;
+    border-radius: 3px;
+    margin-right: 8px;
+}
+
+.conference-badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+    display: inline-block;
+    margin-right: 8px;
+}

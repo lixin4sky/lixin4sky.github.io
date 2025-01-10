@@ -26,7 +26,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 
 # 📖 Educations
-- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Cheng Yang(BUPT), Prof. Chuan Shi(BUPT) and Zhiyuan Liu(THU).
+- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Cheng Yang(BUPT), advised by Prof. Chuan Shi(BUPT) and Zhiyuan Liu(THU).
 - *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
 
 # 💻 Internships
@@ -44,8 +44,9 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 [**Source Code**](https://github.com/BUPT-GAMMA/ProGraph) ||
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
 
+</div></div>
 
-<!-- # ⌛️ Preprints
+# ⌛️ Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/papers/graphteam_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +55,15 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 **Xin Li***, Qizhi Chu*, Yubin Chen*, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang†
 
-[**Project**](https://github.com/BUPT-GAMMA/GraphTeam)  -->
+[**Project**](https://github.com/BUPT-GAMMA/GraphTeam) 
+
+</div></div>
+
+- <span class="conference-badge">arxiv preprint</span> [Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245), Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   [**Source Code**](https://github.com/hp-l33/AiM)
+
+
+
+</div></div>
 
 
 # 🎖 Honors and Awards
