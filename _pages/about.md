@@ -39,7 +39,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 [Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](https://arxiv.org/abs/2409.19667)
 
-**Xin Li\***, Weize Chen\**, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang<sup>†</sup>
+**Xin Li\***, Weize Chen\*, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang<sup>†</sup>
 
 [**Source Code**](https://github.com/BUPT-GAMMA/ProGraph) ||
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
