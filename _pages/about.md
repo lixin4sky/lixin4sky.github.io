@@ -30,7 +30,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 - *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
 
 # 💻 Internships
-- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. Weize Chen and Dr. Qian Chen, Beijing.
+- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. Weize Chen and Dr. Chen Qian, Beijing.
 
 # 📝 Publications 
 
