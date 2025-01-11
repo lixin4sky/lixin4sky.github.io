@@ -41,7 +41,8 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 **Xin Li\***, Weize Chen\*, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang<sup>†</sup>
 
-[**Source Code**](https://github.com/BUPT-GAMMA/ProGraph) ||
+[**Source Code**](https://github.com/BUPT-GAMMA/ProGraph)
+
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
 
 </div></div>
@@ -55,7 +56,9 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 **Xin Li\***, Qizhi Chu\**, Yubin Chen\**, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang<sup>†</sup>
 
-[**Project**](https://github.com/BUPT-GAMMA/GraphTeam) 
+[**Project**](https://github.com/BUPT-GAMMA/GraphTeam)
+
+[**Demo**](http://112.124.25.134/gt/)
 
 </div></div>
 
