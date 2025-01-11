@@ -78,6 +78,10 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 - *2023.10* National Scholarship(Undergraduate)(Top 1%)
 - *2021.10* National Scholarship(Undergraduate)(Top 1%)
 
+📄 Academic Services
+
+- Reviewer for Conferences: NeurIPS 2024, WWW 2025.
+
 
 <!-- # 💬 Invited Talks -->
 
