@@ -40,6 +40,53 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// .paper-box {
+//     display: flex;
+//     justify-content: left;
+//     align-items: center;
+//     flex-direction: row;
+//     flex-wrap: wrap;
+//     border-bottom: 1px #efefef solid;
+//     padding: 2em 0 2em 0;
+    
+
+//     .paper-box-image{
+//         justify-content: center;
+//         display: flex;
+//         width: 100%;
+//         order: 2;
+//         img {
+//             max-width: 400px;
+//             box-shadow: 3px 3px 6px #888;
+//             object-fit: cover;
+//         }
+//     }
+    
+//     .paper-box-text{
+//         max-width: 100%;
+//         order: 1;
+//     }
+    
+//     @include breakpoint($medium) {
+//         .paper-box-image{
+//             justify-content: left;
+//             min-width: 200px;
+//             max-width: 40%;
+//             order: 1;
+//         }
+        
+//         .paper-box-text{
+//             justify-content: left;
+//             padding-left: 2em;
+//             max-width: 60%;
+//             order: 2;
+//         }
+
+//     }
+
+
+// }
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -55,7 +102,24 @@
         display: flex;
         width: 100%;
         order: 2;
+        position: relative;
         img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+        
+        video + div .badge,
+        video ~ div .badge {
+            position: absolute;
+            top: 0;
+            right: -8px;
+            margin: 5px;
+            z-index: 1;
+        }
+
+        // 添加视频样式
+        video {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -68,6 +132,22 @@
     }
     
     @include breakpoint($medium) {
+        &.with-video {  // 添加视频布局的特殊样式
+            .paper-box-image{
+                justify-content: left;
+                min-width: 200px;
+                max-width: 40%;  // 视频部分稍微放大
+                order: 1;
+            }
+            
+            .paper-box-text{
+                justify-content: left;
+                padding-left: 2em;
+                max-width: 60%;  // 相应减小文字部分
+                order: 2;
+            }
+        }
+
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
@@ -81,10 +161,7 @@
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
