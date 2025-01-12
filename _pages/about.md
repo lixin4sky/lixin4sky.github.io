@@ -34,7 +34,10 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/papers/prograph_pipeline2.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/papers/prograph_pipeline2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](https://arxiv.org/abs/2409.19667)
