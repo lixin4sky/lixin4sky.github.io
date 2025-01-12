@@ -55,14 +55,14 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/papers/graphteam_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'>
+<div class='paper-box'><div class='paper-box-image'>
 <video controls width="100%">
   <source src="videos/graphteam/demo1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <div><div class="video-badge">arxiv preprint</div></div>
 </div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 [GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](https://arxiv.org/abs/2410.18032)
 
