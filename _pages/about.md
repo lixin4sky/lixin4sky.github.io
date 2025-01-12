@@ -64,6 +64,8 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 </div>
 <div class='paper-box-text' markdown="1">
 
+<!-- </div></div> -->
+
 [GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](https://arxiv.org/abs/2410.18032)
 
 **Xin Li\***, Qizhi Chu\*, Yubin Chen\*, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang<sup>†</sup>
@@ -72,7 +74,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 [**Demo**](http://112.124.25.134/gt/): **You can play it!**
 
-<!-- </div></div> -->
+</div></div>
 
 - <span class="conference-badge">arxiv preprint</span> [Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245), Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   [**Source Code**](https://github.com/hp-l33/AiM)
 

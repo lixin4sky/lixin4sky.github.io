@@ -84,6 +84,23 @@
 
     }
 
+    /* 移动端适配 */
+    @media (max-width: 768px) {
+        .paper-box {
+            flex-direction: column;
+        }
+        
+        /* 确保视频容器在上方 */
+        .paper-box-image {
+            order: -1;
+            width: 100%;
+        }
+        
+        .paper-box-text {
+            width: 100%;
+        }
+    }
+
 
 }
 
