@@ -52,14 +52,14 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/papers/graphteam_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'>
+<!-- <div class='paper-box'><div class='paper-box-image'>
 <video controls width="100%">
   <source src="videos/graphteam/demo1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <div><div class="video-badge">arxiv preprint</div></div>
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 [GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](https://arxiv.org/abs/2410.18032)
 
@@ -69,7 +69,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 [**Demo**](http://112.124.25.134/gt/): **You can play it!**
 
-</div></div>
+<!-- </div></div> -->
 
 - <span class="conference-badge">arxiv preprint</span> [Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245), Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   [**Source Code**](https://github.com/hp-l33/AiM)
 
