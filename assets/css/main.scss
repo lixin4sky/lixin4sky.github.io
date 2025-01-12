@@ -61,6 +61,13 @@
             object-fit: cover;
         }
     }
+
+    .paper-box-image video {
+        width: 100%;
+        height: auto;
+        background-color: #f0f0f0; /* 添加背景色 */
+        min-height: 200px; /* 设置最小高度 */
+    }
     
     .paper-box-text{
         max-width: 100%;
