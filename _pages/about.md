@@ -26,11 +26,11 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 
 # 📖 Educations
-- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Cheng Yang(BUPT), advised by Prof. Chuan Shi(BUPT) and Zhiyuan Liu(THU).
+- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang(杨成)(BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Chuan Shi(石川)(BUPT)](https://scholar.google.com/citations?user=tUq_v90AAAAJ) and Prof. [Zhiyuan Liu(刘知远)(THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
 - *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
 
 # 💻 Internships
-- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. Weize Chen and Dr. Chen Qian, Beijing.
+- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. [Weize Chen(陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ) and Dr. [Chen Qian(钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ), Beijing.
 
 # 📝 Publications 
 
@@ -67,7 +67,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 [**Project**](https://github.com/BUPT-GAMMA/GraphTeam)
 
-[**Demo**](http://112.124.25.134/gt/)
+[**Demo**](http://112.124.25.134/gt/): **You can play it!**
 
 </div></div>
 
@@ -78,7 +78,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 - *2023.10* National Scholarship(Undergraduate)(Top 1%)
 - *2021.10* National Scholarship(Undergraduate)(Top 1%)
 
-# 📄 Academic Services
+# 📑 Academic Services
 
 - Reviewer for Conferences: NeurIPS 2024, WWW 2025.
 

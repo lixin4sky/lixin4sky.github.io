@@ -5,9 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# livereload: true
+
 # Site Settings
 title                    : "Xin Li"
-description              : "Ph.D. student at BUPT, research intern at THUNLP. Focus on NLP, LLM, and Multi-Agent Systems."
+description              : "Ph.D. student at BUPT, research intern at THUNLP. Focus on NLP, LLM, and Autonomous Agents."
 repository               : "lixin4sky/lixin4sky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -147,6 +149,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - hawkins
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
