@@ -46,7 +46,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 <!-- [**Source Code**](https://github.com/BUPT-GAMMA/ProGraph) -->
 
-[![](https://img.shields.io/github/stars/BUPT-GAMMA/GraphTeam?style=social&label=Code+Stars)](https://github.com/BUPT-GAMMA/GraphTeam)
+[![](https://img.shields.io/github/stars/BUPT-GAMMA/ProGraph?style=social&label=Code+Stars)](https://github.com/BUPT-GAMMA/ProGraph)
 
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fall_pubs%2Fu-x6o8ySG0sC.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
