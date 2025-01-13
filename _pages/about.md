@@ -40,11 +40,15 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](https://arxiv.org/abs/2409.19667)
+[(ProGraph) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models](https://arxiv.org/abs/2409.19667)
 
 **Xin Li\***, Weize Chen\*, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang<sup>†</sup>
 
-[**Source Code**](https://github.com/BUPT-GAMMA/ProGraph)
+<!-- [**Source Code**](https://github.com/BUPT-GAMMA/ProGraph) -->
+
+[![](https://img.shields.io/github/stars/BUPT-GAMMA/GraphTeam?style=social&label=Code+Stars)](https://github.com/BUPT-GAMMA/GraphTeam)
+
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fselected_pubs%2Fu-x6o8ySG0sC.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
 
@@ -86,13 +90,26 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 **Xin Li\***, Qizhi Chu\*, Yubin Chen\*, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang<sup>†</sup>
 
-[**Project**](https://github.com/BUPT-GAMMA/GraphTeam)
+<!-- [**Project**](https://github.com/BUPT-GAMMA/GraphTeam) -->
+
+[![](https://img.shields.io/github/stars/BUPT-GAMMA/GraphTeam?style=social&label=Code+Stars)](https://github.com/BUPT-GAMMA/GraphTeam)
+
+<!-- 下面需要修改成自己的内容 -->
+
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fselected_pubs%2Fd1gkVwhDpl0C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+
 
 [**Demo**](http://112.124.25.134/gt/): **You can play it!**
 
 </div></div>
 
-- <span class="conference-badge">arxiv preprint</span> [Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245), Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   [**Source Code**](https://github.com/hp-l33/AiM)
+- <span class="conference-badge">arxiv preprint</span> 
+[Scalable autoregressive image generation with mamba](https://arxiv.org/abs/2408.12245)
+Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   
+<!-- [**Source Code**](https://github.com/hp-l33/AiM) -->
+[![](https://img.shields.io/github/stars/hp-l33/AiM?style=social&label=Code+Stars)](https://github.com/hp-l33/AiM)
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u5HHmVD_uO8C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fselected_pubs%2Fu5HHmVD_uO8C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎖 Honors and Awards
