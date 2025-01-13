@@ -100,7 +100,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 
 
-[**Demo**](http://112.124.25.134/gt/): **You can play it!**
+[<span style="color:#ff4757">**Demo**</span>](http://112.124.25.134/gt/): <span style="color:#ff4757">**You can play it! Enjoy yourself!**</span>
 
 </div></div>
 
