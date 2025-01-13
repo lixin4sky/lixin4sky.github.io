@@ -26,11 +26,11 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 
 # 📖 Educations
-- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang(杨成)(BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Chuan Shi(石川)(BUPT)](https://scholar.google.com/citations?user=tUq_v90AAAAJ) and Prof. [Zhiyuan Liu(刘知远)(THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
+- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Chuan Shi (石川) (BUPT)](https://scholar.google.com/citations?user=tUq_v90AAAAJ) and Prof. [Zhiyuan Liu (刘知远) (THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
 - *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
 
 # 💻 Internships
-- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. [Weize Chen(陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ) and Dr. [Chen Qian(钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ), Beijing.
+- *2024.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), advised by Dr. [Weize Chen (陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ) and Dr. [Chen Qian (钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ), Beijing.
 
 # 📝 Publications 
 
