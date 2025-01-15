@@ -23,7 +23,10 @@ jobs:
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
+        # 修改这里，添加所有文件和文件夹
+        git add .
+        # 或者明确指定包含子文件夹
+        # git add *.json **/*.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
