@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual language processing, large language model, autonomous agent. I have published several papers at the top international AI Conferences / Journals with total <a href="https://scholar.google.com/citations?user=pHPTHHwAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flixin4sky%2Flixin4sky.github.io%40main%2Fresults%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my work or potential collaboration, please feel free to reach out to me at lixin4sky[at]gmail.com (please replace [at] with @).
+Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual language processing, large language model, autonomous agent. I have published several papers at the top international AI Conferences / Journals with total <a href="https://scholar.google.com/citations?user=pHPTHHwAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flixin4sky%2Flixin4sky.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my work or potential collaboration, please feel free to reach out to me at lixin4sky[at]gmail.com (please replace [at] with @).
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 My first paper is accepted by NeurIPS 2024.
@@ -48,7 +48,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 [![](https://img.shields.io/github/stars/BUPT-GAMMA/ProGraph?style=social&label=Code+Stars)](https://github.com/BUPT-GAMMA/ProGraph)
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fall_pubs%2Fu-x6o8ySG0sC.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fgoogle-scholar-stats%2Fall_pubs%2Fu-x6o8ySG0sC.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 [**Models and Datasets**](https://huggingface.co/lixin4sky/ProGraph)
 
@@ -96,7 +96,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 <!-- 下面需要修改成自己的内容 -->
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fall_pubs%2Fd1gkVwhDpl0C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fgoogle-scholar-stats%2Fall_pubs%2Fd1gkVwhDpl0C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 

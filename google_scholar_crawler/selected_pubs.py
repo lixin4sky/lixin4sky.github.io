@@ -153,8 +153,8 @@ for title in publication_titles:
     
     # 在results文件夹下创建selected_pubs文件夹，如果不存在
     import os
-    if not os.path.exists('../results/all_pubs'):
-        os.makedirs('../results/all_pubs')
+    if not os.path.exists('results/all_pubs'):
+        os.makedirs('results/all_pubs')
     
     citations, paper_id = find_citations_by_title(selected_data, cleaned_title)
     
@@ -172,7 +172,7 @@ for title in publication_titles:
     }
     
     # 保存为json文件
-    with open(f'../results/all_pubs/{paper_id}.json', 'w') as file:
+    with open(f'results/all_pubs/{paper_id}.json', 'w') as file:
         json.dump(shieldio_data, file)
     
 
