@@ -135,7 +135,7 @@ publication_titles = extract_titles(content)
 for title in publication_titles:
     print(title)
 
-json_file = '../results/gs_data.json'
+json_file = 'results/gs_data.json'
 selected_data = json.load(open(json_file, 'r'))
 
 for title in publication_titles:
