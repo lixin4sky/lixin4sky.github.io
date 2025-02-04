@@ -26,7 +26,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual 
 
 
 # 📖 Educations
-- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Chuan Shi (石川) (BUPT)](https://scholar.google.com/citations?user=tUq_v90AAAAJ) and Prof. [Zhiyuan Liu (刘知远) (THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
+- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Zhiyuan Liu (刘知远) (THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
 - *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
 
 # 💻 Internships
@@ -118,7 +118,7 @@ Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li
 
 # 📑 Academic Services
 
-- Reviewer for Conferences: NeurIPS 2024, WWW 2025.
+- Reviewer for Conferences: NeurIPS 2024.
 
 
 <!-- # 💬 Invited Talks -->
