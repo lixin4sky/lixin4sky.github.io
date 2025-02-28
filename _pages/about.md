@@ -17,22 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes natrual language processing, large language model, autonomous agent. I have published several papers at the top international AI Conferences / Journals with total <a href="https://scholar.google.com/citations?user=pHPTHHwAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flixin4sky%2Flixin4sky.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my work or potential collaboration, please feel free to reach out to me at lixin4sky[at]gmail.com (please replace [at] with @).
+Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes large language model, autonomous agents and reinforcement learning. I have published several papers at the top international AI Conferences / Journals with total <a href="https://scholar.google.com/citations?user=pHPTHHwAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flixin4sky%2Flixin4sky.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my work or potential collaboration, please feel free to reach out to me at lixin4sky[at]gmail.com (please replace [at] with @).
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 My first paper is accepted by NeurIPS 2024.
 
-- *2024.09*: &nbsp;🎉🎉 I became a Ph.D. Student at Beijing University of Posts and Telecommunications, supervised by Prof. Cheng Yang.
+- *2024.09*: &nbsp;🎉🎉 I became a Ph.D. Student at Beijing University of Posts and Telecommunications, supervised by Associate Prof. [Cheng Yang](https://yangchengbupt.github.io).
 
 
 # 📖 Educations
-- *2024.09 - Present*, Doctoral student at School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Prof. [Zhiyuan Liu (刘知远) (THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
-- *2020.09 - 2024.06*, Undergraduate, China University of Petroleum (Beijing) at Karamay.
+- *2024.09 - Present*, Doctoral student at School of Computer Science, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn), supervised by Associate Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), advised by Associate Prof. [Zhiyuan Liu (刘知远) (THU)](https://scholar.google.com/citations?user=dT0v5u0AAAAJ).
+- *2020.09 - 2024.06*, Undergraduate, [China University of Petroleum (Beijing) at Karamay](https://www.cupk.edu.cn).
 
 # 💻 Internships
-- *2025.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Co-leader, Multi Agent System Group, advised by Dr. [Chen Qian (钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ) and Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
-- *2025.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Research Intern, Reinforcement Learning Group, advised by Dr. [Weize Chen (陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ), Dr. [Ganqu Cui (崔淦渠)](https://scholar.google.com/citations?user=3IVSzZgAAAAJ&hl=en), Dr. [Ning Ding (丁宁)](https://scholar.google.com/citations?user=uZXQuYAAAAAJ&hl=en), Dr. [Zheni Zeng (曾哲妮)](https://ellenzzn.github.io/zhenizeng//)and Prof. [Huimin Chen (陈慧敏) (THU)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
-- *2024.02 - 2025.02*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Research Intern, Multi Agent System Group, advised by Dr. [Weize Chen (陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ), Dr. [Chen Qian (钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ) and Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
+- *2025.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Co-leader, Multi Agent System Group, advised by Dr. [Chen Qian (钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ) and Associate Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
+- *2025.02 - Present*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Research Intern, Alignment and Safety Group, advised by Dr. [Weize Chen (陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ), Dr. [Ganqu Cui (崔淦渠)](https://scholar.google.com/citations?user=3IVSzZgAAAAJ&hl=en), Dr. [Ning Ding (丁宁)](https://scholar.google.com/citations?user=uZXQuYAAAAAJ&hl=en), Dr. [Zheni Zeng (曾哲妮)](https://ellenzzn.github.io/zhenizeng//)and Associate Prof. [Huimin Chen (陈慧敏) (THU)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
+- *2024.02 - 2025.02*, [THUNLP](https://nlp.csai.tsinghua.edu.cn), Research Intern, Multi Agent System Group, advised by Dr. [Weize Chen (陈暐泽)](https://scholar.google.com/citations?hl=en&user=0CoGHtIAAAAJ), Dr. [Chen Qian (钱忱)](https://scholar.google.com/citations?user=Rnsawl0AAAAJ) and Associate Prof. [Cheng Yang (杨成) (BUPT)](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Beijing.
 
 
 # 📝 Publications 
