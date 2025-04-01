@@ -112,7 +112,7 @@ Hi~, I am Xin Li [ɕɪnˉ liˇ] (李鑫). My research interest includes large la
 Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li   
 <!-- [**Source Code**](https://github.com/hp-l33/AiM) -->
 [![](https://img.shields.io/github/stars/hp-l33/AiM?style=social&label=Code+Stars)](https://github.com/hp-l33/AiM)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u5HHmVD_uO8C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fresults%2Fall_pubs%2Fu5HHmVD_uO8C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pHPTHHwAAAAJ&citation_for_view=pHPTHHwAAAAJ:u5HHmVD_uO8C'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flixin4sky%2Flixin4sky.github.io%2Fmain%2Fgoogle-scholar-stats%2Fall_pubs%2Fu5HHmVD_uO8C.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🎖 Honors and Awards
