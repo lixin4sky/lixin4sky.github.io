@@ -52,9 +52,19 @@ def main():
         print('[warn] Reusing existing results/gs_data.json if present and exiting successfully.')
         return 0
 
+    # Optionally slow down by filling each publication individually with a delay
+    per_pub_delay = float(os.environ.get('PER_PUB_DELAY', '1'))
+    pubs = author.get('publications', [])
+    for idx, pub in enumerate(pubs, start=1):
+        try:
+            scholarly.fill(pub)
+        except Exception as e:
+            print(f"[warn] Failed to fill publication #{idx}: {e}")
+        time.sleep(per_pub_delay)
+
     # Normalize and persist
     author['updated'] = str(datetime.now())
-    author['publications'] = {v['author_pub_id']: v for v in author.get('publications', [])}
+    author['publications'] = {v['author_pub_id']: v for v in pubs}
     print(json.dumps(author, indent=2))
 
     os.makedirs('results', exist_ok=True)
