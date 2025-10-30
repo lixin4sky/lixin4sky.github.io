@@ -38,6 +38,8 @@ jobs:
       - name: Build site
         run: |
           hugo --minify
+          # Ensure GitHub Pages does not run Jekyll on the artifact
+          touch public/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
