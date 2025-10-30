@@ -1,0 +1,69 @@
+baseURL: "https://lixin4sky.github.io/"
+title: "Xin Sky Li"
+languageCode: en-us
+defaultContentLanguage: en
+pagination:
+  pagerSize: 10
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+outputs:
+  home: [HTML, RSS, JSON]
+
+# Treat existing folders as static assets without moving files
+staticDir: ["static", "images", "videos"]
+
+params:
+  description: "Ph.D. student at BUPT; NLP, LLM, RL, Agents"
+  author: "Xin Sky Li"
+  keywords: [Blog, PaperMod, LLM, NLP, RL]
+  DateFormat: "2006-01-02"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  comments: false
+  useHugoToc: true
+
+  homeInfoParams:
+    Title: "Welcome to X.S. Li's Log"
+    Content: |
+      Hi, this is Xin Sky Li. Because “Xin Li” is a very common name in Chinese, I added the middle name “Sky” to reduce name collisions. This blog records my learning notes and personal thoughts on AI and related topics. You may spot grammar mistakes here and there — that’s my English, please don’t blame ChatGPT 😉.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/lixin4sky"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=pHPTHHwAAAAJ"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/xin-li-b13569299/"
+    - name: email
+      url: "mailto:lixin4sky@gmail.com"
+
+menu:
+  main:
+    - name: Posts
+      url: posts/
+      weight: 10
+    - name: Archive
+      url: archives/
+      weight: 20
+    - name: Search
+      url: search/
+      weight: 30
+    - name: Tags
+      url: tags/
+      weight: 40
+    - name: FAQ
+      url: faq/
+      weight: 50
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
