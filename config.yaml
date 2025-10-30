@@ -12,8 +12,8 @@ module:
 outputs:
   home: [HTML, RSS, JSON]
 
-# Treat existing folders as static assets without moving files
-staticDir: ["static", "images", "videos"]
+# Static assets directory
+staticDir: ["static"]
 
 params:
   description: "Ph.D. student at BUPT; NLP, LLM, RL, Agents"
